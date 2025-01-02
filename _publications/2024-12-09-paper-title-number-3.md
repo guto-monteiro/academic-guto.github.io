@@ -1,5 +1,5 @@
 ---
-title: "Denitrifying microbial genes quantification attests inference for potential N<sup>2</sup>O emissions in sugarcane soils by enzymatic bioanalysis"
+title: "Denitrifying microbial genes quantification attests inference for potential N<sub>2</sub>O emissions in sugarcane soils by enzymatic bioanalysis"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-09-paper-title-number-1
