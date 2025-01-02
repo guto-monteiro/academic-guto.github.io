@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_new2.jpeg"
+  avatar           : "profile_new3.heic"
   name             : "Gabriel Gustavo Monteiro"
   pronouns         : "He/Him"  
   bio              : "Molecular biogeochemistry and microbial ecology"
