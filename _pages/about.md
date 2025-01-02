@@ -15,8 +15,8 @@ During my M.Sc, I worked in Prof. [Tsai Siu Mui's](https://bv.fapesp.br/en/pesqu
 Research interests
 ======
 
-<i><p style="text-align: center;">"Essentially, all life depends upon the soil. There can be no life without soil and no soil without life. They have evolved together." 
-  (C. Kellogg)</p></i>
+<p style="text-align: center;">"Essentially, all life depends upon the soil. There can be no life without soil and no soil without life. They have evolved together." 
+  (C. Kellogg)</p>
   
 
 I am a soil microbial and chemical ecologist fascinated by plant-soil-microbes interactions. My goal as a (microbial) researcher is to explore the complex interactions between the aboveground plants and the belowground soil and microbes in tropical ecosystems in the context of climate change
