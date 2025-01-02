@@ -9,7 +9,7 @@ redirect_from:
 
 I am a master's student funded by the São Paulo Research Foundation (FAPESP) at the Center for Nuclear Energy in Agriculture of the University of São Paulo (Brazil). I’ll soon be starting as a PhD student at the Max Planck Institute for Biogeochemistry (MPI-BGC) in 2025
 
-During my M.Sc, I worked in Prof. Tsai Siu Mui's (https://bv.fapesp.br/en/pesquisador/216/tsai-siu-mui/) group on the soil microbial carbon metabolism across tropical agroforests, with a particular emphasis on the dissolved organic matter molecular composition and its relation to microbial community function
+During my M.Sc, I worked in Prof. [Tsai Siu Mui's](https://bv.fapesp.br/en/pesquisador/216/tsai-siu-mui) group on the soil microbial carbon metabolism across tropical agroforests, with a particular emphasis on the dissolved organic matter molecular composition and its relation to microbial community function
 
 Research interests
 ======
