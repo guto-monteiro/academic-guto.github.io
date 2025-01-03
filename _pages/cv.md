@@ -77,6 +77,6 @@ Talks
   
 Awards
 ======
-* 2022. Best Poster – Research area: Soil Microbiology - XXXII Brazilian Congress of Microbiology (CBM), Foz do Iguaçu (PR), Brazil.
-* 2019. Commendation in recognition of the significant services rendered for the development of the State of Pará, Legislative Assembly of the State of Pará (2019). 
+* Best Poster – Research area: Soil Microbiology - XXXII Brazilian Congress of Microbiology (CBM), Foz do Iguaçu (PR), Brazil (2022).
+* Commendation in recognition of the significant services rendered for the development of the State of Pará, Legislative Assembly of the State of Pará (2019). 
 
