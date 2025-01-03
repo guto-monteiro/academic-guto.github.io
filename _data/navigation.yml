@@ -23,8 +23,8 @@ main:
   - title: "Projects"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "News"
+    url: /news/
     
  # - title: "Guide"
  #   url: /markdown/
