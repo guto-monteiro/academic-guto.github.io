@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!--Hi there 👋 -->
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=guto-monteiro.guto-monteiro)
+![decription](https://img.shields.io/badge/Language-Python-green)
+![decription](https://img.shields.io/badge/Language-R-blue)
+![decription](https://img.shields.io/badge/Language-C++-red)
+![decription](https://img.shields.io/badge/Language-SAS-white)
 
 My name is Gabriel Monteiro, and I am a master's student funded by the [São Paulo Research Foundation (FAPESP)](https://fapesp.br/en) at the [Center for Nuclear Energy in Agriculture](http://www.cena.usp.br/) of the University of São Paulo (Brazil). I'm working in Prof. [Siu Mui Tsai's](https://bv.fapesp.br/en/pesquisador/216/tsai-siu-mui) group on the soil microbial carbon metabolism across tropical agroforests, with a particular emphasis on the dissolved organic matter molecular composition and its relation to microbial community function
 
