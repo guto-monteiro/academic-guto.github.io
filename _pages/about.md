@@ -23,10 +23,10 @@ Research interests
 
 I am a soil microbial and chemical ecologist fascinated by plant-soil-microbes interactions. My goal as a (microbial) researcher is to explore the complex interactions between the aboveground plants and the belowground soil and microbes in tropical ecosystems in the context of climate change. To accomplish this, we rely on different techniques such as molecular biology, next-generation sequencing, and mass spectrometry.
 
-<div align="center">
-  <figure>
-    <img src="https://i.postimg.cc/7LKwZcgb/20240414195424.jpg" alt="可能由于网络问题没显示出来" title="摄于湖南大学财院校区图书馆天台">
-    <figcaption>摄于湖南大学财院校区图书馆天台(Photo taken at the rooftop of the library, Finance Campus, Hunan University)</figcaption>
-  </figure>
-</div>
+# <div align="center">
+#  <figure>
+#    <img src="https://i.postimg.cc/7LKwZcgb/20240414195424.jpg" alt="可能由于网络问题没显示出来" title="摄于湖南大学财院校区图书馆天台">
+#    <figcaption>摄于湖南大学财院校区图书馆天台(Photo taken at the rooftop of the library, Finance Campus, Hunan University)</figcaption>
+#  </figure>
+# </div>
 
